@@ -1,6 +1,6 @@
 <?php 
 	
-function deleteLineInFile($file,$string)
+function delete_line_in_file($file,$string)
 {
 	$i=0;$array=array();
 	
